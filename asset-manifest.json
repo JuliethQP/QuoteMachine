@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuoteMachine/static/css/main.eea2ae2d.chunk.css",
+    "main.js": "/QuoteMachine/static/js/main.8f95d6df.chunk.js",
+    "main.js.map": "/QuoteMachine/static/js/main.8f95d6df.chunk.js.map",
+    "runtime-main.js": "/QuoteMachine/static/js/runtime-main.569ab508.js",
+    "runtime-main.js.map": "/QuoteMachine/static/js/runtime-main.569ab508.js.map",
+    "static/js/2.a48f85a5.chunk.js": "/QuoteMachine/static/js/2.a48f85a5.chunk.js",
+    "static/js/2.a48f85a5.chunk.js.map": "/QuoteMachine/static/js/2.a48f85a5.chunk.js.map",
+    "index.html": "/QuoteMachine/index.html",
+    "precache-manifest.4d941ea2f15aca73566f7b98604ac7a4.js": "/QuoteMachine/precache-manifest.4d941ea2f15aca73566f7b98604ac7a4.js",
+    "service-worker.js": "/QuoteMachine/service-worker.js",
+    "static/css/main.eea2ae2d.chunk.css.map": "/QuoteMachine/static/css/main.eea2ae2d.chunk.css.map",
+    "static/js/2.a48f85a5.chunk.js.LICENSE.txt": "/QuoteMachine/static/js/2.a48f85a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.569ab508.js",
+    "static/js/2.a48f85a5.chunk.js",
+    "static/css/main.eea2ae2d.chunk.css",
+    "static/js/main.8f95d6df.chunk.js"
+  ]
+}
